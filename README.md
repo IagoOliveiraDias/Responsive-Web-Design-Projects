@@ -10,5 +10,5 @@ Responsive Web Design Projects Using HTML, CSS, Visual Design, Accessibility, an
 * CSS Grid
 
 ## Github-pages
-* Tribute Page:  <a href="https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Tribute%20Page/index.html" target="_blank"> Jimi Hendrix</a> 
+* Tribute Page:  [Jimi Hendrix](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Tribute%20Page/index.html) 
 
