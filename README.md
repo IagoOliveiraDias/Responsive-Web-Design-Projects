@@ -9,6 +9,5 @@ Responsive Web Design Projects Using HTML, CSS, Visual Design, Accessibility, an
 * CSS Flexbox
 * CSS Grid
 
-
-
-
+## Github-pages
+* Tribute Page: https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Tribute%20Page/index.html
