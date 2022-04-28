@@ -46,7 +46,7 @@ img{
 }
 
 figcaption{
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
     margin: 10px 0 10px 0;
 }
@@ -64,7 +64,7 @@ h3{
 
 ul{
     padding-inline-start: 20px;
-    max-width: 60%;
+    max-width: 80%;
     margin: auto;
 
 }
