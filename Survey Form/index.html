@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <div class="container">
+            <header class="header">
+                <h1 id="title">DEVs Registration</h1>
+                <p id="description"><em>Complete your information - Thank you for taking the time to help us</em></p>
+            </header>
+
+            <form id="survey-form">
+                <div class="form-group">
+                    <label id="name-label" for="name">Name</label>
+                    <input id="name" class="form-control" type="text" name="name" placeholder="Enter your name" required>
+                </div>
+                <div class="form-group">
+                    <label id="email-label" for="email">Email</label>
+                    <input id="email" class="form-control" type="email" name="email" placeholder="Enter your Email" required>
+                </div>
+                <div class="form-group">
+                    <label id="number-label" for="number">Age (Optional)</label>
+                    <input id="number" class="form-control" type="number" name="age" min="10" max="99" placeholder="Age">
+                </div>
+                <div class="form-group">
+                    <p>Wich option best describes your current role?</p>
+                    <select class="form-control" name="role" id="dropdown">Select current role
+                        <option disabled selected value>Select Current Role</option>
+                        <option value="student">Student</option>
+                        <option value="job">Full Time Job</option>
+                        <option value="learner">Full time Learner</option>
+                        <option value="preferNo">Prefer not to say</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <p>What application do you develop?</p>
+                    <label>
+                        <input type="radio" name="develop" value="frontEnd" checked>Front-End
+                    </label>
+                    <label>
+                        <input type="radio" name="develop" value="backEnd">Back-End
+                    </label>
+                    <label>
+                        <input type="radio" name="develop" value="fullStack">FullStack
+                    </label>
+                </div>
+                <div class="form-group">
+                    <p>What do you enjoy doing the most?</p>
+                   <select class="form-control" name="mostLike" id="most-like">
+                        <option disabled selected value>Select an Option</option>
+                        <option value="challenges">Challenges</option>
+                        <option value="projects">Projects</option>
+                        <option value="community">Community</option>
+                        <option value="openSource">Open Source</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <p>Select the technologies you use</p>
+                    <label>
+                        <input type="checkbox" value="html" name="technologies">HTML
+                    </label>
+                    <label>
+                        <input type="checkbox" value="css" name="technologies">CSS
+                    </label>
+                    <label>
+                        <input type="checkbox" value="javascript" name="technologies">JavaScript
+                    </label>
+                    <label>
+                        <input type="checkbox" value="php" name="technologies">PHP
+                    </label>
+                    <label>
+                        <input type="checkbox" value="c#" name="technologies">C#
+                    </label>
+                    <label>
+                        <input type="checkbox" value="python" name="technologies">Python
+                    </label>
+                    <label>
+                        <input type="checkbox" value="java" name="technologies">Java
+                    </label>
+                </div>
+                <div class="form-group">
+                    <p>Any comments or suggestions?</p>
+                    <textarea name="comment" id="comments" placeholder="Enter your comment here..."></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit" id="submit">Submit</button>
+                </div>
+            </form>
+        </div>
+        </main>
+</body>
+</html>
