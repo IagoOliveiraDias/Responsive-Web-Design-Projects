@@ -13,3 +13,4 @@ Responsive Web Design Projects Using HTML, CSS, Visual Design, Accessibility, an
 * [Tribute Page: Jimi Hendrix](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Tribute%20Page/index.html) 
 * [Survey Form](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Survey%20Form/index.html)
 * [Landing Page](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Landing%20Page/index.html)
+* [Technical Documentation Page](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Technical%20Documentation%20Page/index.html))
