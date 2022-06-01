@@ -10,6 +10,9 @@ Responsive Web Design Projects Using HTML, CSS, Visual Design, Accessibility, an
 * CSS Grid
 
 ## Github-pages
+
+* [Huddle Landing Page](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Huddle%20Landing%20Page/index.html)
+
 * [Social Proof Section](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Social%20Proof%20Section/index.html)
 * [Tribute Page: Jimi Hendrix](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Tribute%20Page/index.html) 
 * [Survey Form](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Survey%20Form/index.html)
