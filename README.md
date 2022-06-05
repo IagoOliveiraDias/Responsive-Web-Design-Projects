@@ -11,6 +11,7 @@ Responsive Web Design Projects Using HTML, CSS, Visual Design, Accessibility, an
 
 ## Github-pages
 
+* [Testimonials Grid](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Testimonials%20Grid/index.html)
 * [Four Card Section](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Four%20Card%20Section/index.html)
 * [Single Price Grid Component](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Single%20Price%20Grid%20Component/index.html)
 * [Huddle Landing Page](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Huddle%20Landing%20Page/index.html)
