@@ -1,31 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-html{
-    background:#c4f9ff;
+html {
+    background: #c4f9ff;
     font-family: 'Inter', sans-serif;
 }
 
-main{
+main {
     margin: 20px 5px;
     padding: 20px;
     border-radius: 8px;
-    background:  #ffffc3;
+    background: #ffffc3;
 }
 
-.container{
+.container {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-h1{
+h1 {
     font-family: 'Water Brush', cursive;
     margin-bottom: 0;
     font-size: 60px;
 }
 
-p{
+p {
     font-size: 16px;
     margin: 10px 10px;
 }
@@ -37,49 +37,49 @@ p{
     margin: 0;
 }
 
-img{
+img {
     border-radius: 6px;
     max-width: 100%;
-    display:block;
-    height:auto;
+    display: block;
+    height: auto;
     margin: 0 auto;
 }
 
-figcaption{
+figcaption {
     font-size: 16px;
     text-align: center;
     margin: 10px 0 10px 0;
 }
 
-section{
+section {
     display: block;
     flex-direction: column;
 }
 
-h3{ 
+h3 {
     text-align: center;
     margin: 40px 0 0 0;
     font-size: 20px;
 }
 
-ul{
-    display:block;
+ul {
+    display: block;
     padding-inline-start: 20px;
     max-width: 80%;
     margin: auto;
 
 }
 
-li{
-    margin: 20px 40px 20px 40px; 
+li {
+    margin: 20px 40px 20px 40px;
     text-align: justify;
 }
 
-blockquote{
+blockquote {
     text-align: center;
 }
 
-footer{
+footer {
     display: block;
     margin: 0 0 50px 0;
 }
