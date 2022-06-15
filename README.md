@@ -15,6 +15,7 @@ Responsive Web Design Projects Using HTML, CSS, Visual Design, Accessibility, an
 * [Four Card Section](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Four%20Card%20Section/index.html)
 * [Single Price Grid Component](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Single%20Price%20Grid%20Component/index.html)
 * [Huddle Landing Page](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Huddle%20Landing%20Page/index.html)
+* [Clipboard Landing Page - Only Desktop](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Clipboard%20Landing%20Page%20-%20Only%20Desktop/index.html)
 * [Social Proof Section](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Social%20Proof%20Section/index.html)
 * [Tribute Page: Jimi Hendrix](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Tribute%20Page/index.html) 
 * [Survey Form](https://iagooliveiradias.github.io/Responsive-Web-Design-Projects/Survey%20Form/index.html)
